@@ -2,3 +2,7 @@ https://gist.github.com/hnykda/c362f0ad488e3b289394
 https://habrahabr.ru/company/ods/blog/327242/
 https://www.kaggle.com/the1owl/surprise-me
 https://www.kaggle.com/johannesss/forecasting-using-lstm-from-keras
+
+
+
+https://www.kaggle.com/lopuhin/mercari-golf-0-3875-cv-in-75-loc-1900-s
